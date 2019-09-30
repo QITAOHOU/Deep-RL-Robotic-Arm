@@ -1,1 +1,1 @@
-﻿﻿# Deep-RL-Robotic-ArmImlementation of DQN agent to teach the robotic arm simulated in gazebo to touch the cylinder object with certain parts: gripper, the whole arm.![](https://github.com/ss555/Deep-RL-Robotic-Arm/ARM.GIF)
+﻿﻿﻿# Deep-RL-Robotic-ArmImlementation of DQN agent to teach the robotic arm simulated in gazebo to touch the cylinder object with certain parts: gripper, the whole arm.![](ARM.GIF)![](https://github.com/ss555/Deep-RL-Robotic-Arm/ARM.GIF)
